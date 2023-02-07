@@ -1,2 +1,2 @@
 # projeto-netflix
- recriando a intergace do netflix
+ recriando a interface do netflix
